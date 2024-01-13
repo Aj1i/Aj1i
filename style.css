@@ -37,6 +37,7 @@ html {
     background: url(./img/sanjiii.png);
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: right;
 }
 
 section {
